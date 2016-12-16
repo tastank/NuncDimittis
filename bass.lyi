@@ -1,0 +1,63 @@
+\include "defs.lyi"
+
+bass = \relative c {
+    R1*2                        |%1-2
+    f4. f8 c4 c                 |%3
+    des4. (ees8) f4 g           |%4
+    aes4. (g8) f4 ees           |%5
+    des4 (c8 bes c4. des8       |%6
+    c2 aes'~                    |%7
+    aes4 g f2)                  |%8
+    R1                          |%9
+    f4 f bes,4. (des8)          |%10
+    ees4 r r2                   |%11
+    f4 f bes,4. (des8)          |%12
+    ees4 r bes4. des8           |%13
+    ees4 r bes4. des8           |%14
+    ees4 r r2                   |%15
+    R1*9                        |%16-24
+    r2 f4 (ees)                 |%25
+    des8 (c) bes (c des c) bes4 |%26
+    c4 c2 bes4                  |%27
+    aes8 (g) c4 bes8 (aes) g4   |%28
+    aes4. (bes8 c4 aes          |%29
+    bes4 c2) bes8 aes           |%30
+    c2 des                      |%31
+    r4 ees f8 (g) aes4          |%32
+    g4 (f) g g~                 |%33
+    g4 g aes4. (g8)             |%34
+    f4 f8 (g) aes (bes) c4      |%35
+    bes4 aes a (bes)            |%36
+    b2 (c)                      |%37
+    des2 (bes)                  |%38
+    ces2 (ges)                  |%39
+    bes2 (f)                    |%40
+    f8 f f ees des c c4         |%41
+    c1                          |%42
+    f1~                         |%43
+    f1~                         |%44
+    f2 r                        |%45
+    R1                          |%46
+    f2\pp c                     |%47
+    des4. (ees8 f4) g           |%48
+    aes4. (g8) f4 ees           |%49
+    des4 (c8 bes c2)            |%50
+    c2 f                        |%51
+    f4 c des2                   |%52
+    c4 bes des c                |%53
+    des4 (ees) c (des8 ees)     |%54
+    f4^\ritedim (ees des c      |%55
+    bes4^\moltorit aes8 g f2)   |%56
+} \addlyrics {
+    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne, 
+    Nunc di -- mit -- tis
+    ser -- vum tu -- um
+    Do -- mi -- ne
+    Do -- mi -- ne
+    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
+    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
+    Lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
+    glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el
+    glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el.
+
+}

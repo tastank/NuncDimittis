@@ -1,0 +1,43 @@
+subp=\markup{\italic{sub.}\dynamic{p}}
+rit=\markup{\italic{rit.}}
+ritedim=\markup{\italic{rit. e dim.}}
+moltorit=\markup{\italic{molto rit.}}
+
+scoop = #(define-music-function
+    (parser location scoopFrom)
+    (ly:pitch?)
+    #{
+        \override Score.GraceSpacing #'spacing-increment = #4.0
+        \grace{\hideNotes $scoopFrom \glissando \unHideNotes}
+        \revert Score.GraceSpacing #'spacing-increment
+    #}
+)
+
+fall = #(define-music-function
+    (parser location fallsize)
+    (number?)
+    #{
+        -\bendAfter $fallsize
+    #}
+)
+
+noTimeText = #(define-music-function
+    (parser location text)
+    (string?)
+    #{
+        \relative c'' {
+            \grace{\hideNotes b^$text \unHideNotes}
+        }
+    #}
+)
+
+caesura = {
+    \override BreathingSign #'text = \markup {
+        \musicglyph #"scripts.caesura.straight"
+    }
+    \breathe
+%   \revert BreathingSign #'text
+%TODO: This is bad, as it leaves the breathing sign as the caesura sign.  This implementation aspect should be hidden from whatever file includes this.
+}
+sim=\markup{\italic{sim.}}
+

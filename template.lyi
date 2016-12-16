@@ -1,0 +1,8 @@
+template = {
+    \key f \minor
+    \time 4/4
+    \numericTimeSignature
+    \tempo 4=60
+    s1*56
+    \bar "|."
+}

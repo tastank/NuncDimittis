@@ -1,0 +1,60 @@
+mezzo = \relative c'' {
+    R1*8
+    c4 c des2   |%9
+    c2 r        |%11
+    c4 c des2   |%12
+    c2 bes4 aes |%12
+    g2 (f)      |%13
+    R1          |%14
+    f4 f g4. aes8   |%15
+    bes4 (g) aes g8 f   |%16
+    c'2 c4 r            |%17
+    g4 g aes4. (bes8    |%18
+    c4 aes) bes (c)     |%19
+    des2 des            |%20
+    r2 f,4 f            |%21
+    bes8 (aes g f) ees2 |%22
+    f2 f                |%23
+    f4. g8 aes4 c       |%24
+    g2 aes              |%25
+    R1*2                |%26-27
+    f4 g bes aes        |%28
+    g4 g aes8 bes c4    |%29
+    g4 g f2             |%30
+    f4 g aes (bes)      |%31
+    c2 r2               |%32
+    f,2 g               |%33
+    aes4 bes c2         |%34
+    c4 c des2           |%35
+    des4 ees d (des)    |%36
+    d2 (ees)            |%37
+    f2 (ees)            |%38
+    ees2 (bes)          |%39
+    f2 (aes)            |%40
+    bes4. bes8 aes (g) g4   |%41
+    f2 f                |%42
+    f4 f f2~            |%43
+    f1                  |%44
+    des'1~\pp           |%45
+    des1                |%46
+    c1                  |%47
+    des1                |%48
+    c2 c                |%49
+    c8 (bes) aes (g) f4 g   |%50
+    g2 (f)              |%51
+    f2 f                |%52
+    f1                  |%53
+    f2 f                |%54
+    f1~                 |%55
+    f1                  |%56
+} \addlyrics {
+    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne
+    Qui -- a vi -- de -- runt o -- cu -- li me -- i sa -- lu -- ta -- re tu -- um
+    sa -- lu -- ta -- re tu -- um
+    sa -- lu -- ta -- re tu -- um
+    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
+    an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
+    Lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
+    glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el
+    glo -- ri -- am Is -- ra -- el.
+}
