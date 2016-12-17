@@ -31,8 +31,8 @@ tenor = \relative c' {
     aes2 bes4 bes~          |%33
     bes4 bes c2             |%34
     c4 bes aes aes          |%35
-    bes4 c d4 (des)         |%36
-    d2 (ees)                |%37
+    bes4 c c2               |%36
+    c4 (des ees f)          |%37
     f2 (ees)                |%38
     ees2 (bes)              |%39
     des4 bes8 bes aes g f4  |%40

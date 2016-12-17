@@ -26,8 +26,8 @@ mezzo = \relative c'' {
     f,2 g               |%33
     aes4 bes c2         |%34
     c4 c des2           |%35
-    des4 ees d (des)    |%36
-    d2 (ees)            |%37
+    des4 ees d (c)      |%36
+    c4 (des c2)         |%37
     f2 (ees)            |%38
     ees2 (bes)          |%39
     f2 (aes)            |%40

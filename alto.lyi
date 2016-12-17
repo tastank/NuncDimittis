@@ -28,8 +28,8 @@ alto = \relative c'' {
     f2 ees                      |%33
     ees4 ees f2                 |%34
     f4 g aes2                   |%35
-    aes4 aes a (g)              |%36
-    fis2 (f4 g8 a)              |%37
+    aes4 aes g2                 |%36
+    ees4 (g2 f8 g16 a)          |%37
     bes1                        |%38
     ees,1                       |%39
     f4 des8 bes c4. des8        |%40
