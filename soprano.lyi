@@ -16,8 +16,8 @@ soprano = \relative c'' {
     c2 bes              |%33
     aes4 bes c (des)    |%34
     ees4 ees f2         |%35
-    f4 (ees) fis (f)    |%36
-    g4 (fis) aes4 (a)   |%37
+    ees4 c des2         |%36
+    ees4 (f g a)        |%37
     bes1                |%38
     aes2 (ges)          |%39
     f1                  |%40

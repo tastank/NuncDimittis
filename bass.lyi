@@ -27,8 +27,8 @@ bass = \relative c {
     g4 (f) g g~                 |%33
     g4 g aes4. (g8)             |%34
     f4 f8 (g) aes (bes) c4      |%35
-    bes4 aes a (bes)            |%36
-    b2 (c)                      |%37
+    bes4 aes g2                 |%36
+    aes4 (bes c2)               |%37
     des2 (bes)                  |%38
     ces2 (ges)                  |%39
     bes2 (f)                    |%40
