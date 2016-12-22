@@ -22,7 +22,7 @@ tenor = \relative c' {
     aes4 f) c' (aes)        |%24
     g2 f                    |%25
     f4 g bes aes            |%26
-    g4 g~ g2                |%27
+    g4 g2.                  |%27
     aes4 aes bes2           |%28
     bes4 bes c2~            |%29
     c4 des8 bes c2          |%30
