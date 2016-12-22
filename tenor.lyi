@@ -52,16 +52,4 @@ tenor = \relative c' {
     bes4. (aes8) g2 (       |%54
     f1~                     |%55
     f1)                     |%56
-} \addlyrics {
-    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne
-    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne
-    Do -- mi -- ne
-    Qui -- a vi -- de -- runt o -- cu -- li me -- i
-    sa -- lu -- ta -- re tu -- um
-    sa -- lu -- ta -- re tu -- um
-    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    Lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
-    et glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el
-    glo -- ri -- am Is -- ra -- el.
 }

@@ -33,11 +33,4 @@ soprano = \relative c'' {
     des2 (c)            |%50
     c1                  |%51
     R1*5                |%52-56
-} \addlyrics {
-    Qui -- a vi -- de -- runt o -- cu -- li me -- i sa -- lu -- ta -- re tu -- um
-    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    Lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
-    glo -- ri -- am Is -- ra -- el.
-%    Lumen ad revelationem gentium, et gloriam plebis tuae Israel.
 }

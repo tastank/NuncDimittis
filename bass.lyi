@@ -48,16 +48,4 @@ bass = \relative c {
     des4 (ees) c (des8 ees)     |%54
     f4^\ritedim (ees des c      |%55
     bes4^\moltorit aes8 g f2)   |%56
-} \addlyrics {
-    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne, 
-    Nunc di -- mit -- tis
-    ser -- vum tu -- um
-    Do -- mi -- ne
-    Do -- mi -- ne
-    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    Lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
-    glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el
-    glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el.
-
 }

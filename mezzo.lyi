@@ -48,14 +48,4 @@ mezzo = \relative c'' {
     f2 f                |%54
     f1~                 |%55
     f1                  |%56
-} \addlyrics {
-    Se -- cun -- dum ver -- bum tu -- um in pa -- ce, Do -- mi -- ne
-    Qui -- a vi -- de -- runt o -- cu -- li me -- i sa -- lu -- ta -- re tu -- um
-    sa -- lu -- ta -- re tu -- um
-    sa -- lu -- ta -- re tu -- um
-    Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
-    Lu -- men ad re -- ve -- la -- ti -- o -- nem gen -- ti -- um
-    glo -- ri -- am ple -- bis tu -- ae Is -- ra -- el
-    glo -- ri -- am Is -- ra -- el.
 }

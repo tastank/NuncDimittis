@@ -9,14 +9,15 @@
 \include "tenor.lyi"
 \include "bass.lyi"
 
-midiInstr = "recorder"
+midiInstr = "french horn"
 
 \score {
-    \new ChoirStaff <<
+    \new StaffGroup <<
         \new Staff = Soprano <<
-            \set Staff.instrumentName = "Soprano"
-            \set Staff.shortInstrumentName = "S"
+            \set Staff.instrumentName = "Horn 1"
+            \set Staff.shortInstrumentName = "1"
             \set Staff.midiInstrument = \midiInstr
+            \transposition f
             \template
             \new Voice <<
                 \soprano
@@ -24,9 +25,10 @@ midiInstr = "recorder"
         >>
 
         \new Staff = Mezzo <<
-            \set Staff.instrumentName = "Mezzo"
-            \set Staff.shortInstrumentName = "M"
+            \set Staff.instrumentName = "Horn 2"
+            \set Staff.shortInstrumentName = "2"
             \set Staff.midiInstrument = \midiInstr
+            \transposition f
             \template
             \new Voice <<
                 \mezzo
@@ -35,9 +37,10 @@ midiInstr = "recorder"
        
         \new Staff = Alto <<
 %           \clef alto
-            \set Staff.instrumentName = "Alto"
-            \set Staff.shortInstrumentName = "A"
+            \set Staff.instrumentName = "Horn 3"
+            \set Staff.shortInstrumentName = "3"
             \set Staff.midiInstrument = \midiInstr
+            \transposition f
             \template
             \new Voice <<
                 \alto
@@ -45,10 +48,11 @@ midiInstr = "recorder"
         >>
 
         \new Staff = Tenor <<
-            \set Staff.instrumentName = "Tenor"
-            \set Staff.shortInstrumentName = "T"
+            \set Staff.instrumentName = "Horn 4"
+            \set Staff.shortInstrumentName = "4"
             \set Staff.midiInstrument = \midiInstr
             \clef "treble_8"
+            \transposition f
             \template
             \new Voice <<
                 \tenor
@@ -56,10 +60,11 @@ midiInstr = "recorder"
         >>
 
         \new Staff = Bass <<
-            \set Staff.instrumentName = "Bass"
-            \set Staff.shortInstrumentName = "B"
+            \set Staff.instrumentName = "Horn 5"
+            \set Staff.shortInstrumentName = "5"
             \set Staff.midiInstrument = \midiInstr
             \clef bass
+            \transposition f
             \template
             \new Voice <<
                 \bass
