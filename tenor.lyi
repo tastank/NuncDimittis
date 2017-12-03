@@ -1,56 +1,56 @@
 tenor = \relative c' {
     R1*4
-    aes4. aes8 aes4 aes
+    aes4.\p aes8 aes4 aes
     f4 (g8 aes) aes4 bes
-    c4 r c8 (des) ees (des)
-    c1
-    R1
-    c4 c bes4. (aes8)       |%10
+    c4 r c8\< (des) ees (des)
+    c1\>
+    R1\!
+    c4\mf c bes4. (aes8)    |%10
     g4 r r2                 |%11
     c4 c bes4. (aes8)       |%12
-    g4 r f4. aes8           |%13
-    bes4 r f4. aes8         |%14
+    g4 r f4.\mp aes8        |%13
+    bes4 r f4.\p aes8       |%14
     bes4 r r2               |%15
     R1                      |%16
-    f4. f8 f (g) aes4       |%17
+    f4.\mf f8 f (g) aes4    |%17
     bes2 c4 bes8 aes        |%18
     g4 g r2                 |%19
     aes4 aes f4 (g8 aes)    |%20
     bes4 c f,2              |%21
     R1                      |%22
-    f4 f f4. (g8            |%23
-    aes4 f) c' (aes)        |%24
-    g2 f                    |%25
-    f4 g bes aes            |%26
+    f4 f f4.\< (g8          |%23
+    aes4 f) c'\> (aes)      |%24
+    g2 f\!                  |%25
+    f4\mf g bes aes         |%26
     g4 g2.                  |%27
     aes4 aes bes2           |%28
     bes4 bes c2~            |%29
     c4 des8 bes c2          |%30
     c1                      |%31
-    c2 bes8 (g) aes4        |%32
-    aes2 bes4 bes~          |%33
+    c2\mf bes8 (g) aes4     |%32
+    aes2\< bes4 bes~        |%33
     bes4 bes c2             |%34
-    c4 bes aes aes          |%35
+    c4\> bes aes aes\!      |%35
     bes4 c bes2             |%36
-    c4 (des ees f)          |%37
-    f2 (ees)                |%38
-    ees2 (bes)              |%39
+    c4\< (des ees f)        |%37
+    f2\ff (ees)             |%38
+    ees2\> (bes)            |%39
     des4 bes8 bes aes g f4  |%40
-    f1                      |%41
+    f1\mp                   |%41
     aes2 c                  |%42
     f,1~                    |%43
     f1~                     |%44
     f2 r                    |%45
-    r4 bes\pp aes g         |%46
+    r4\p bes aes g          |%46
     f4 r r2                 |%47
     R1                      |%48
     aes4. aes8 aes4 aes     |%49
     f4 (g8 aes) aes4 (bes)  |%50
     g2 (aes)                |%51
     aes4 g f8 (g aes bes    |%52
-    c2) aes4 aes            |%53
-    bes4. (aes8) g2 (       |%54
-    f1~                     |%55
+    c2) aes4\< aes          |%53
+    bes4.\> (aes8) g2 (     |%54
+    f1~\pp                  |%55
     f1)                     |%56
 } \addlyrics {
     Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne

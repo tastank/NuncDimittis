@@ -1,51 +1,51 @@
 mezzo = \relative c'' {
     R1*7
-    r2 r4 c     |%8
+    r2 r4 c\f   |%8
     c4 c des2   |%9
     c2 r4 c     |%11
     c4 c des2   |%12
-    c2 bes4 aes |%12
-    g2 (f)      |%13
+    c2 bes4\> aes |%12
+    g2 (f)\!    |%13
     R1          |%14
-    f4 f g4. aes8   |%15
-    bes4 (g) aes g8 f   |%16
-    c'2 c4 r            |%17
+    f4\mf f g4. aes8    |%15
+    bes4 (g) aes\> g8 f |%16
+    c'2 c4\! r          |%17
     g4 g aes4. (bes8    |%18
-    c4 aes) bes (c)     |%19
-    des2 des            |%20
-    r2 f,4 f            |%21
-    bes8 (aes g f) ees2 |%22
-    f2 f                |%23
-    f4. g8 aes4 c       |%24
-    g2 aes              |%25
+    c4 aes) bes\< (c)   |%19
+    des2\mf des         |%20
+    r2 f,4\mp\< f       |%21
+    bes8\> (aes g f) ees2 |%22
+    f2\p f              |%23
+    f4.\< g8 aes4 c     |%24
+    g2\> aes\!          |%25
     R1*2                |%26-27
-    f4 g bes aes        |%28
-    g4 g aes8 bes c4    |%29
-    g4 g f2             |%30
-    f4 g aes (bes)      |%31
-    c2 r2               |%32
+    f4\mf g bes aes     |%28
+    g4 g aes8\< bes c4  |%29
+    g4\> g f2\p         |%30
+    f4\< g aes (bes)    |%31
+    c2\! r2             |%32
     f,2 g               |%33
-    aes4 bes c2         |%34
+    aes4\< bes c2       |%34
     c4 c des4. (c8)     |%35
-    bes4 aes bes2       |%36
-    c4 (bes c2)         |%37
-    des2 (ees)          |%38
-    ees2 (bes)          |%39
+    bes4\! aes bes2     |%36
+    c4\< (bes c2)       |%37
+    des2\ff (ees)       |%38
+    ees2\> (bes)        |%39
     f2 (aes)            |%40
-    bes4. bes8 aes (g) g4   |%41
-    f2 f                |%42
+    bes4.\mp bes8 aes (g) g4 |%41
+    f2\> f              |%42
     f4 f f2~            |%43
-    f1                  |%44
+    f1\!                |%44
     des'1~\pp           |%45
     des1                |%46
     c1                  |%47
     des1                |%48
     c2 c                |%49
-    c8 (bes) aes (g) f4 g   |%50
-    g2 (f)              |%51
-    f2 f                |%52
-    f1                  |%53
-    f2 f                |%54
+    c8\< (bes) aes (g) f4 g |%50
+    ees2\> (f)          |%51
+    f2\p f              |%52
+    f1\>                |%53
+    f2\pp f             |%54
     f1~                 |%55
     f1                  |%56
 } \addlyrics {

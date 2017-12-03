@@ -2,43 +2,43 @@
 
 bass = \relative c {
     R1*2                        |%1-2
-    f4. f8 c4 c                 |%3
-    des4. (ees8) f4 g           |%4
-    aes4. (g8) f4 ees           |%5
-    des4 (c8 bes c4. des8       |%6
+    f4.\p f8 c4 c               |%3
+    des4.\< (ees8) f4 g         |%4
+    aes4.\mf\> (g8) f4 ees      |%5
+    des4\mp (c8 bes c4. des8    |%6
     c2 aes'~                    |%7
-    aes4 g f2)                  |%8
+    aes4\> g f2\!)              |%8
     R1                          |%9
-    f4 f bes,4. (des8)          |%10
+    f4\mf f bes,4. (des8)       |%10
     ees4 r r2                   |%11
     f4 f bes,4. (des8)          |%12
-    ees4 r bes4. des8           |%13
-    ees4 r bes4. des8           |%14
+    ees4 r bes4.\mp des8        |%13
+    ees4 r bes4.\p des8         |%14
     ees4 r r2                   |%15
     R1*9                        |%16-24
-    r2 f4 (ees)                 |%25
-    des8 (c) bes (c des c) bes4 |%26
+    r2 f4\mp\< (ees)            |%25
+    des8\mf (c) bes (c des c) bes4 |%26
     c4 c2 bes4                  |%27
     aes8 (g) c4 bes8 (aes) g4   |%28
     aes4. (bes8 c4 aes          |%29
     bes4 c2) bes8 aes           |%30
-    c2 des                      |%31
-    r4 ees f8 (g) aes4          |%32
-    g4 (f) g g~                 |%33
-    g4 g aes4. (g8)             |%34
-    f4 f8 (g) aes (bes) c4      |%35
+    c2\< des\!                  |%31
+    r4 ees\mf f8 (g) aes4       |%32
+    g4 (f) g g~\<               |%33
+    g4 g aes4.\> (g8)           |%34
+    f4 f8\< (g) aes (bes) c4\!  |%35
     bes4 aes g2                 |%36
-    aes4 (bes c2)               |%37
-    des2 (bes)                  |%38
-    ces2 (ges)                  |%39
+    aes4\< (bes c2)             |%37
+    des2\ff (bes)               |%38
+    ces2\> (ges)                |%39
     bes2 (f)                    |%40
-    f8 f f ees des c c4         |%41
+    f8\mp f f ees des c c4      |%41
     c1                          |%42
     f1~                         |%43
     f1~                         |%44
     f2 r                        |%45
     R1                          |%46
-    f2\pp c                     |%47
+    f2\p c                      |%47
     des4. (ees8 f4) g           |%48
     aes4. (g8) f4 ees           |%49
     des4 (c8 bes c2)            |%50

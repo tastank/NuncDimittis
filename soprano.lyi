@@ -1,37 +1,37 @@
 soprano = \relative c'' {
     R1*18
-    r2 c4 c             |%19
-    des4. ees8 des4 (c) |%20
-    bes4 c c2           |%21
-    des8 (c bes aes) g2 |%22
-    f4 g aes4. (bes8    |%23
-    c4 des) ees4 (des)  |%24
-    c2 c                |%25
+    r2 c4\mf\< c        |%19
+    des4. ees8 des4\> (c) |%20
+    bes4 c c2\!         |%21
+    des8\> (c bes aes) g2 |%22
+    f4\p\< g aes4. (bes8 |%23
+    c4 des) ees4\> (des) |%24
+    c2 c\!              |%25
     R1*2                |%26-27
-    aes4 bes bes c      |%28
-    bes4 bes c8 des ees4    |%29
-    c4 des8 (bes) aes2  |%30
-    aes4 bes c (des)    |%31
-    ees2 r              |%32
-    c2 bes              |%33
-    aes4 bes c (des)    |%34
+    aes4\mf bes bes c   |%28
+    bes4 bes c8\< des ees4    |%29
+    c4\> des8 (bes) aes2\p |%30
+    aes4\< bes c (des)  |%31
+    ees2\! r            |%32
+    c2\mf bes           |%33
+    aes4\< bes c (des)  |%34
     ees4 ees f2         |%35
-    ees4 c des2         |%36
-    ees4 (f g a)        |%37
-    bes1                |%38
-    aes2 (ges)          |%39
+    ees4\! c des2       |%36
+    ees4\< (f g a)      |%37
+    bes1\ff             |%38
+    aes2\> (ges)        |%39
     f1                  |%40
-    ees4 des c c        |%41
-    c4 (bes) aes2       |%42
+    ees4\mp des c c     |%41
+    c4\> (bes) aes2     |%42
     aes4 g f2~          |%43
-    f1                  |%44
+    f1\!                |%44
     f'1~\pp             |%45
     f1                  |%46
     f1                  |%47
     f1                  |%48
     f2 (ees)            |%49
-    des2 (c)            |%50
-    c1                  |%51
+    des2\> (c)          |%50
+    c1\!                |%51
     R1*5                |%52-56
 } \addlyrics {
     Qui -- a vi -- de -- runt o -- cu -- li me -- i sa -- lu -- ta -- re tu -- um

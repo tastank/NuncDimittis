@@ -1,52 +1,52 @@
 alto = \relative c'' {
-    g4. g8 f4 f             |%1
-    ees4 ees des2           |%2
-    c4 r c4. c8             |%3
+    g4.\mp g8 f4 f          |%1
+    ees4 ees des2\>         |%2
+    c4\p r c4. c8           |%3
     bes2 r4 c               |%4
-    c4 bes f'4. (g8)        |%5
-    aes4 aes aes ees        |%6
-    g2 aes~                 |%7
+    c4\< bes f'4. (g8)      |%5
+    aes4\! aes aes ees      |%6
+    g2 aes~\>               |%7
     aes1                    |%8
-    R1                      |%9
-    aes4 aes g4. (f8)       |%10
+    R1\!                    |%9
+    aes4\mf aes g4. (f8)    |%10
     ees4 r r2               |%11
     aes4 aes g4. (f8)       |%12
-    ees4 r des4. f8         |%13
-    g4 r des4. f8           |%14
+    ees4 r des4.\mp f8      |%13
+    g4 r des4.\p f8         |%14
     g4 r r2                 |%15
     R1                      |%16
-    aes4. aes8 g4 f         |%17
-    ees4. (des8) c4 des8 ees    |%18
-    c4 c r2                     |%19
+    aes4.\mf aes8 g4 f      |%17
+    ees4. (des8) c4\< des8 ees  |%18
+    c4\> c\! r2                 |%19
     f4 f aes (bes8 aes)         |%20
     g4 g f2                     |%21
     R1                          |%22
-    f4 ees des4. (f8            |%23
-    f4 aes) g (f)               |%24
-    e2 f                        |%25
+    f4\< ees des4.\! (f8        |%23
+    f4 aes) g\> (f)             |%24
+    e2 f\!                      |%25
     R1*7                        |%26-32
-    f2 ees                      |%33
-    ees4 ees f2                 |%34
-    f4 g aes2                   |%35
+    f2\mf ees                   |%33
+    ees4\< ees f2               |%34
+    f4 g aes2\!                 |%35
     g4 f f (g)                  |%36
-    aes2 (g4 f8 g16 a)          |%37
-    bes1                        |%38
-    ees,1                       |%39
+    aes2\< (g4 f8 g16 a)        |%37
+    bes1\ff                     |%38
+    ees,1\>                     |%39
     f4 des8 bes c4. des8        |%40
-    bes4 (aes8 g) f4 r          |%41
-    aes4 bes c2~                |%42
+    bes4 (aes8 g) f4\! r        |%41
+    aes4\mp bes c2~             |%42
     c1~                         |%43
     c1~                         |%44
     c2 r                        |%45
-    bes'2.\pp bes4              |%46
+    bes'2.\p bes4               |%46
     aes4 r c,2                  |%47
     bes2 r4 c                   |%48
-    c4 (bes) f'4. (g8           |%49
-    aes4) aes2 (ees4)           |%50
-    ees2 (f4) ees               |%51
-    des4 c c r                  |%52
-    c4 des des4. ees8           |%53
-    f1                          |%54
+    c4\< (bes) f'4. (g8         |%49
+    aes4)\! aes2 (ees4)         |%50
+    g2\> (f4) ees               |%51
+    des4 c c\! r                |%52
+    c4\> des des4. ees8         |%53
+    f1\pp                       |%54
     f1                          |%55
     f1                          |%56
 } \addlyrics {
