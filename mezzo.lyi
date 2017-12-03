@@ -9,14 +9,14 @@ mezzo = \relative c'' {
     R1          |%14
     f4\mf f g4. aes8    |%15
     bes4 (g) aes\> g8 f |%16
-    c'2 c4\! r          |%17
+    c'2 c2\!            |%17
     g4 g aes4. (bes8    |%18
     c4 aes) bes\< (c)   |%19
     des2\mf des         |%20
     r2 f,4\mp\< f       |%21
     bes8\> (aes g f) ees2 |%22
     f2\p f              |%23
-    f4.\< g8 aes4 c     |%24
+    f4.\< g8 aes4 aes   |%24
     g2\> aes\!          |%25
     R1*2                |%26-27
     f4\mf g bes aes     |%28
