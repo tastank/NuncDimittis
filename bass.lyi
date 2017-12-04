@@ -1,6 +1,7 @@
 \include "defs.lyi"
 
 bass = \relative c {
+    \dynamicUp
     R1*2                        |%1-2
     f4.\p f8 c4 c               |%3
     des4.\< (ees8) f4 g         |%4

@@ -1,4 +1,5 @@
 soprano = \relative c'' {
+    \dynamicUp
     R1*18
     r2 c4\mf\< c        |%19
     des4. ees8 des4\> (c) |%20

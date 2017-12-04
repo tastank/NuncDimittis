@@ -1,4 +1,5 @@
 alto = \relative c'' {
+    \dynamicUp
     g4.\mp g8 f4 f          |%1
     ees4 ees des2\>         |%2
     c4\p r c4. c8           |%3

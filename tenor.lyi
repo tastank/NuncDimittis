@@ -1,4 +1,5 @@
 tenor = \relative c' {
+    \dynamicUp
     R1*4
     aes4.\p aes8 aes4 aes
     f4 (g8 aes) aes4 bes
