@@ -33,8 +33,8 @@ bass = \relative c {
     des2\ff (bes)               |%38
     ces2\> (ges)                |%39
     bes2 (f)                    |%40
-    f8\mp f f ees des c c4      |%41
-    c1                          |%42
+    f8\mp f f ees des4 c        |%41
+    c2 c                        |%42
     f1~                         |%43
     f1~                         |%44
     f2 r                        |%45
