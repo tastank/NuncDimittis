@@ -10,7 +10,7 @@ alto = \relative c'' {
     aes1                    |%8
     R1\!                    |%9
     aes4\mf aes g4. (f8)    |%10
-    ees4 r r2               |%11
+    ees4 r r aes            |%11
     aes4 aes g4. (f8)       |%12
     ees4 r des4.\mp f8      |%13
     g4 r des4.\p f8         |%14
@@ -52,7 +52,8 @@ alto = \relative c'' {
     f1                          |%56
 } \addlyrics {
     Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne, se -- cun -- dum ver -- bum tu -- um in pa -- ce
-    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne
+    ser -- vum tu -- um
+    tu -- um in pa -- ce Do -- mi -- ne
     Do -- mi -- ne
     Qui -- a vi -- de -- runt o -- cu -- li me -- i
     sa -- lu -- ta -- re tu -- um

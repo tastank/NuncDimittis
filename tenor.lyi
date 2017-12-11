@@ -7,7 +7,7 @@ tenor = \relative c' {
     c1\>
     R1\!
     c4\mf c bes4. (aes8)    |%10
-    g4 r r2                 |%11
+    g4 r r c                |%11
     c4 c bes4. (aes8)       |%12
     g4 r f4.\mp aes8        |%13
     bes4 r f4.\p aes8       |%14
@@ -55,7 +55,8 @@ tenor = \relative c' {
     f1)                     |%56
 } \addlyrics {
     Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne
-    Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne
+    ser -- vum tu -- um
+    tu -- um in pa -- ce Do -- mi -- ne
     Do -- mi -- ne
     Qui -- a vi -- de -- runt o -- cu -- li me -- i
     sa -- lu -- ta -- re tu -- um

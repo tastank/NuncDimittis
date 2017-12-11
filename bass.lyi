@@ -11,7 +11,7 @@ bass = \relative c {
     aes4\> g f2\!)              |%8
     R1                          |%9
     f4\mf f bes,4. (des8)       |%10
-    ees4 r r2                   |%11
+    ees4 r r f                  |%11
     f4 f bes,4. (des8)          |%12
     ees4 r bes4.\mp des8        |%13
     ees4 r bes4.\p des8         |%14
@@ -51,9 +51,8 @@ bass = \relative c {
     bes4^\moltorit aes8 g f2)   |%56
 } \addlyrics {
     Nunc di -- mit -- tis ser -- vum tu -- um, Do -- mi -- ne, 
-    Nunc di -- mit -- tis
     ser -- vum tu -- um
-    Do -- mi -- ne
+    tu -- um in pa -- ce Do -- mi -- ne
     Do -- mi -- ne
     Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
     Quod pa -- ra -- sti an -- te fa -- ci -- em om -- ni -- um po -- pu -- lo -- rum
