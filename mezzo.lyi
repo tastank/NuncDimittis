@@ -17,7 +17,7 @@ mezzo = \relative c'' {
     r2 f,4\mp\< f       |%21
     bes8\> (aes g f) ees2 |%22
     f2\p f              |%23
-    f4.\< g8 aes4 aes   |%24
+    f4.\< g8 aes4 c     |%24
     g2\> aes\!          |%25
     R1*2                |%26-27
     f4\mf g bes aes     |%28
