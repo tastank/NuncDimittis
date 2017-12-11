@@ -1,7 +1,7 @@
 mezzo = \relative c'' {
     \dynamicUp
     R1*8 |%8
-    c4\f c des2   |%9
+    c4\f c des2 |%9
     c2 r4 c     |%11
     c4 c des2   |%12
     c2 bes4\> aes |%12
