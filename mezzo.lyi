@@ -1,7 +1,7 @@
 mezzo = \relative c'' {
     \dynamicUp
     R1*8 |%8
-    c4\f c des2 |%9
+    c4\mf c des2 |%9
     c2 r4 c     |%11
     c4 c des2   |%12
     c2 bes4\> aes |%12
@@ -36,7 +36,7 @@ mezzo = \relative c'' {
     f2\> f              |%42
     f4 f f2~            |%43
     f1\!                |%44
-    des'1~\pp           |%45
+    des'1~\p           |%45
     des1                |%46
     c1                  |%47
     des1                |%48

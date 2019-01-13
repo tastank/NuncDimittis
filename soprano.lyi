@@ -26,7 +26,7 @@ soprano = \relative c'' {
     c4\> (bes) aes2     |%42
     aes4 g f2~          |%43
     f1\!                |%44
-    f'1~\pp             |%45
+    f'1~\p             |%45
     f1                  |%46
     f1                  |%47
     f1                  |%48
